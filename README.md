@@ -14,7 +14,7 @@
 <pre>
   Frontend : HTML,CSS,Javascript
   API : flask api
-  ML Techniques : neuro network analysis,deep learning,cnn arcitecture
+  ML Techniques : neural network analysis , deep learning , cnn arcitecture , keras model , tensorflow model
 </pre>
 ## Command :
  $ python app.py
