@@ -17,7 +17,7 @@
   ML Techniques : neural network analysis , deep learning , cnn arcitecture , keras model , tensorflow model
 </pre>
 ## Command :
- 1. Run app.py file using "python app.py" command on the terminal   
+ 1. Run app.py file using "python app.py" command on the terminal and install the necessary requirements.
  2. Copy the resulting link or address from the terminal and run into the browser of your choice
  3. select file which you want to categorise or segregate.
  4. The category of image is shown as the output
