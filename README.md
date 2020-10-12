@@ -22,6 +22,10 @@
  3. select file which you want to categorise or segregate.
  4. The category of image is shown as the output
  
- 
+ ## Contributors
+ ## Tanmay Jain https://github.com/tj0389
+ ## Umang Gupta https://github.com/umang39
+ ## Priyanshu Pathak https://github.com/PriyanshuPathak
+ ## Sarthak Jain https://github.com/Sarthak2608
  
 
